@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - hero
+  - enemy
+  - invisible wall
+  - background
+  - platform
+  - bullet
+  - pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2794956323
+    locked: 0
+  - name: hero
+    uniqueID: 3595365981
+    locked: 0
+  - name: enemy
+    uniqueID: 1423716021
+    locked: 0
+  - name: platform
+    uniqueID: 2728141149
+    locked: 0
+  - name: invisible wall
+    uniqueID: 2624826957
+    locked: 0
+  - name: items
+    uniqueID: 1748210195
+    locked: 0
+  - name: bullet
+    uniqueID: 4005770469
+    locked: 0
